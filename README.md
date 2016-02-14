@@ -1,2 +1,2 @@
 # pukayo
-Concept of Radio Pukayo website
+Concept of Radio Pukayo website. Created in 2008.
