@@ -1,0 +1,187 @@
+a {
+	color: #FFAE00;
+	text-decoration: none;
+	outline-style: none;
+}
+
+a:hover {
+	color: #FFAE00;
+	text-decoration: underline;
+}
+
+a:active {
+	color: #FFAE00;
+}
+
+a:visited {
+	color: #c0c0c0;
+}
+
+body {
+	background-color: #F8C400;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+}
+
+#top {
+	width: 100%;
+	height: 50px;
+	background-color: #1F1A17;
+}
+
+#bottom {
+	width: 100%;
+	height: 50px;
+	background-color: #1F1A17;
+	float: left;
+	color: #FFFFFF;
+	font-family: Tahoma, 'Trebuchet MS', 'Lucida Grande', Arial, Verdana, Sans-Serif;
+	font-size: 12px;
+}
+
+#bottom-internal {
+	padding: 16px 0 0 30px;
+}
+
+#logo {
+	background: transparent url("images/logo.png") no-repeat 0 0;
+	width: 970px;
+	height: 50px;
+	margin: 0 0 0 30px;
+}
+
+#main {
+	background: transparent url("images/cassette.png") no-repeat 0 0;
+	width: 890px;
+	height: 300px;
+	margin: 0 0 0 20px;
+}
+
+#menu {
+	padding-top: 210px;
+	width: 326px;
+	float: left;
+}
+
+#mainText {
+	padding-top: 10px;
+	margin: 0 0 0 30px;
+	width: 326px;
+	float: left;
+	font-family: Tahoma, 'Trebuchet MS', 'Lucida Grande', Arial, Verdana, Sans-Serif;
+	line-height: 130%;
+	font-size: 12px;
+	color: #000000;
+}
+
+#mainText img {
+	border: 1px #D98A02 solid;
+	background-color: #F8AF00;
+	margin: 10px 0 10px 0;
+	padding: 5px;
+}
+
+#mainText .header {
+	font-family: 'Trebuchet MS', 'Lucida Grande', Tahoma, Arial, Verdana, Sans-Serif;
+	line-height: 150%;
+	font-size: 18px;
+}
+
+#mainText .footer {
+	font-family: Arial, 'Trebuchet MS', 'Lucida Grande', Tahoma, Verdana, Sans-Serif;
+	line-height: 150%;
+	font-size: 11px;
+	float: right;
+	width: 100%;
+	padding: 10px 0 10px 0;
+	text-align: right;
+	background: transparent url("images/mainTextFooter.png") repeat 0 0;
+}
+
+#mainText .footername {
+	background-color: #F8C400;
+	padding: 0 0 0 2px;
+}
+
+#menuChannels {
+	background: transparent url("images/menuChannels.png") no-repeat 0 0;
+	height: 360px;
+	width: 310px;
+	float: right;
+}
+
+#menuChannelsRadio {
+	margin-top: 110px;
+}
+
+#menuChannelsRadioQuality {
+	float: right;
+	width: 134px;
+	text-align: right;
+}
+
+#menuChannelsRadioQuality48 a {
+	background: transparent url("images/menuChannelsRadioQuality48.png") no-repeat;
+	float: left;
+	width: 53px;
+	height: 23px;
+}
+
+#menuChannelsRadioQuality48 a:hover {
+	background: transparent url("images/menuChannelsRadioQuality48b.png") no-repeat;
+}
+
+#menuChannelsRadioQuality128 a {
+	background: transparent url("images/menuChannelsRadioQuality128.png") no-repeat;
+	float: right;
+	width: 58px;
+	height: 23px;
+}
+
+#menuChannelsRadioQuality128 a:hover {
+	background: transparent url("images/menuChannelsRadioQuality12b.png") no-repeat;
+}
+
+#menuChannelsRadioText {
+	width: 306px;
+	float: right;
+	font-family: Arial, Tahoma, Verdana, 'Trebuchet MS', 'Lucida Grande', Sans-Serif;
+	font-size: 11px;
+	color: #000000;
+	padding: 6px 0 14px 0;
+}
+
+#menuChannelsRadioDrum {
+	width: 310px;
+	float: left;
+}
+
+#menuChannelsRadioDrumLogo, #menuChannelsRadioTranceLogo, #menuChannelsRadioChillLogo, #menuChannelsRadioJazzLogo {
+	background: transparent url("images/menuChannelsDrum.png") no-repeat;
+	float: left;
+	width: 132px;
+	height: 23px;
+}
+
+#menuChannelsRadioDrumLogo {
+	background: transparent url("images/menuChannelsDrum.png") no-repeat;
+}
+
+#menuChannelsRadioTranceLogo {
+	background: transparent url("images/menuChannelsTrance.png") no-repeat;
+}
+
+#menuChannelsRadioChillLogo {
+	background: transparent url("images/menuChannelsChill.png") no-repeat;
+}
+
+#menuChannelsRadioJazzLogo {
+	background: transparent url("images/menuChannelsJazz.png") no-repeat;
+}
+
+#menuPartners {
+	background: transparent url("images/menuPartners.png") no-repeat 0 0;
+	height: 200px;
+	width: 310px;
+	float: right;
+}
